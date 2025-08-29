@@ -6,18 +6,16 @@ fun main(){
     a = null
     println("el largo es: " + a?.length)*/
 
-
+    //-----------------------------------------------------------------------------------------------------------------------------------
 
     /*
     val sum = 5+3
     val res = 5-3
     val mul = 5*3
     val div = 5/3
-    /*val div =(5.toFloat() /3)
-    con esto puedo hacer que la divicion me la de sin acortar, que no sea un numero entero
-      */
-    val mod = 7%3
-    /* es lo que me sobra ejemplo 7%3 me daria 1, y ese uno seria prk el sobra 1 para alcanzar 7*/
+    val div =(5.toFloat() /3)
+    //con esto puedo hacer que la divicion me la de sin acortar, que no sea un numero entero
+    val mod = 7%3 //es lo que me sobra ejemplo 7%3 me daria 1, y ese uno seria prk el sobra 1 para alcanzar 7
 
     print("estoy en suma\n")
     println("sum: $sum")
@@ -33,13 +31,12 @@ fun main(){
 
     print("estoy en modulo\n")
     println("mod: $mod")
-    /* para llamar la variabel y no colocar el "+" es con "$"*/
-
+    //para llamar la variabel y no colocar el "+" es con "$"
     */
 
+    //-----------------------------------------------------------------------------------------------------------------------------------
 
-
-    /*fun es funcion de funcionalidad*/
+    //fun es funcion de funcionalidad
 
     var a = 5
     var b = 3
